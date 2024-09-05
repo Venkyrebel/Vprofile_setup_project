@@ -1,0 +1,5 @@
+# Welcome to this Project - Vprofile_setup.
+# This Project is all about setting up a multitier application stack, that involves designing and deploying a system that consists of multiple layers or "tiers" to handle different aspects of Application's functionality. This approach is often used to improve scalability, maintainability, and performance.
+# In this repo we can able to see a file named 'application.properties', this is a java web Application hosted in tomcat-services.
+# Also we can see a "Vagrantfile", where we can create multiple VM's using code.
+
